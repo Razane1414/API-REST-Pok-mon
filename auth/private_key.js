@@ -1,0 +1,1 @@
+module.exports = 'CUSTOM_PRIVATE_KEY' // export qui represente la clef secrete
